@@ -1,0 +1,27 @@
+_repo: The-Prosperity-of-Humankind_19283
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bahá'í International Community
+    alias: Baha'i International Community
+    gutenberg_agent_id: '8579'
+    url: http://www.gutenberg.org/2009/agents/8579
+    wikipedia: http://en.wikipedia.org/wiki/Bah%C3%A1'%C3%AD_International_Community
+description: ''
+gutenberg_issued: '2006-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19283'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'BP'
+- !lcsh 'Peace -- Religious aspects -- Bahai Faith'
+- !lcsh 'Bahai Faith -- Doctrines'
+title: The Prosperity of Humankind
+url: http://www.gutenberg.org/ebooks/19283
